@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "banco-de-dados": "siteclube",
+        "usuario": "root",
+        "senha": "root",
+        "host": "localhost",
+        "port": "8889"
+    }
+}
